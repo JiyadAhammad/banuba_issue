@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "469239820804",
+    "firebase_url": "https://zinni-b7f8f-default-rtdb.firebaseio.com",
+    "project_id": "zinni-b7f8f",
+    "storage_bucket": "zinni-b7f8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469239820804:android:51131184654ebfda84fb51",
+        "android_client_info": {
+          "package_name": "com.zinni"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE9T2KLbO-XwLYQvYy_C56sItjHcLKuiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
